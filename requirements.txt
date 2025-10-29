@@ -1,0 +1,5 @@
+streamlit
+supabase
+numpy
+scikit-surprise
+rapidfuzz
